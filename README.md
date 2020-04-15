@@ -21,7 +21,9 @@ For this project I used information from the following sources to gain insight i
 ### Navigating the repo
 ---
 
-### Conclusions 
+All my code is in the student.ipynb - it is quite a long document but is marked clearly. 
+
+### Questions posed & Conclusions 
 ---
 
 ### Future Recommendations
@@ -30,4 +32,5 @@ For this project I used information from the following sources to gain insight i
     <li> Further investigate streaming vs. theater budget</li>
     <li> Further investigate streaming profit vs in-theater profits</li>
     <li> Create a standardized way to categorize genres</li>
+    <li> Fill in missing data for more accurate analysis</li>
     <li> Investigate viewership vs. box office gross</li>
