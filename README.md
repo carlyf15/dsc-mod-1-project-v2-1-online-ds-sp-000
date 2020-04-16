@@ -27,6 +27,7 @@ All my code is located within in the student.ipynb - it is quite a long document
 ---
 
 ### Future Recommendations to Microsoft 
+---
 
 <lo>
     <li> Further investigate streaming vs. theater budget</li>
