@@ -19,6 +19,7 @@ To perform this analysis I used information from the following sources to gain i
     </lo>
 
 ## Methodology
+---
 <lo>
     <li> One way t tests</li>
     <li> Pearson's Correlation</li>
