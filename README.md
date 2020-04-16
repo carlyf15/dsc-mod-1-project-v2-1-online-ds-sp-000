@@ -18,6 +18,12 @@ To perform this analysis I used information from the following sources to gain i
     <li> Wikpedia/Netflix </li>
     </lo>
 
+## Methodology
+<lo>
+    <li> One way t tests</li>
+    <li> Pearson's Correlation</li>
+    <li> Mean </li>
+
 ## Navigating the repo
 ---
 
@@ -52,17 +58,6 @@ All the code is located within in the student.ipynb.
 <lo> 
     <li> The strongest recommendation at this time is further research. It is apparent from this initial analysis that there are significant differences in the characteristics of original direct-stream films vs. box-office films. No assumptions are made about the origin of those differences at this time (viewer preferences, investor preferences, budget allowance, experimentation, etc.) but this subject is worth further investigation. Also, the absence of information about viewership and production budgets make understanding these differences challenging; this information would be essential to inform production of a new streaming service. Further, measuring "profit" for individual productions is a unique undertaking but would be invaluable information - it is recommended Microsoft considers creating a standardized way to measure this. Finally, it would be of interest to study the changes in viewer preferences during this forced home-streaming only quarantine.
     </li>
-</lo>
-
-### Future Recommendations to Microsoft 
----
-
-<lo>
-    <li> Further investigate direct streaming film production budgets</li>
-    <li> Create a standardized way to measure "profit" of individual productions within a streaming service</li>
-    <li> Create a standardized way to categorize genre</li>
-    <li> Fill in missing data for more accurate analysis</li>
-    <li>Further investigate film viewership during the quarantine</li>
 </lo>
 
 ### Future Recommendations to Myself
