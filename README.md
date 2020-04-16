@@ -51,6 +51,8 @@ All my code is located within in the student.ipynb.
 ### Recommendations 
 <ol> 
     <li> The strongest recommendation at this time is further research. It is apparent from this initial analysis that there are significant differences in the characteristics of original direct-stream films vs. box-office films. No assumptions are made about the origin of those differences at this time (viewer preferences, investor preferences, budget allowance, experimentation, etc.) but this subject is worth further investigation. Also, the absence of information about viewer ship and production budgets make understanding these differences challenging; this information would be essential to inform production of a new streaming service. Further, measuring "profit" for individual productions will be unique with a streaming service but would be invaluable information - it is recommended Microsoft considers creating a standardized way to measure this. Finally, it would be interesting to study the changes in viewer preferences during this forced home-streaming only quarantine.
+    </li>
+</ol>
 
 ### Future Recommendations to Microsoft 
 ---
