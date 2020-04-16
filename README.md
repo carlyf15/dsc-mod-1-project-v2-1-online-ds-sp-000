@@ -21,12 +21,12 @@ For this project I used information from the following sources to gain insight i
 ### Navigating the repo
 ---
 
-All my code is in the student.ipynb - it is quite a long document but is marked clearly. 
+All my code is located within in the student.ipynb - it is quite a long document but is marked clearly. 
 
 ### Questions posed & Conclusions 
 ---
 
-### Future Recommendations
+### Future Recommendations to Microsoft 
 
 <lo>
     <li> Further investigate streaming vs. theater budget</li>
@@ -34,3 +34,11 @@ All my code is in the student.ipynb - it is quite a long document but is marked 
     <li> Create a standardized way to categorize genres</li>
     <li> Fill in missing data for more accurate analysis</li>
     <li> Investigate viewership vs. box office gross</li>
+</lo>
+
+### Future Recommendations to Myself
+---
+<lo>
+	<li> Use an SQL database to compile the csv files from the start</li>
+	<li> Use several different ipynbs to document the process</li>
+	<li> Make a more extensive plan of the analysis prior to executing</li>
